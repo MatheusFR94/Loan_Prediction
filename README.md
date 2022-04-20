@@ -1,6 +1,6 @@
 # Loan_Prediction
 (PT-BR)
-Análise de um dataset fictício sobre liberação de empréstimos para pessoas físicas.
+Aplicação de Machine Learning a um dataset fictício sobre liberação de empréstimos para pessoas físicas.
 
 Parte 1 - Extração, tratamento e carregamento (ETL) dos dados:
 O dataset contendo as informações sobre os empréstimos (train_data.csv) foi obtido do link https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#About, passou por pré-processamento através de um script em Python (Loan_preprocessing.ipynb) para eliminar colunas desnecessárias, substituir valores faltantes e adequar os dados discretos para o bom funcionamento do modelo de Machine Learning, sendo o arquivo resultante o Loan_status_preprocessed.csv.
